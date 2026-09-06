@@ -1,0 +1,9 @@
+.env (secret values)
+   ↓
+config.js (unhe read karta hai)
+   ↓
+database.js (DB connect karta hai)
+   ↓
+app.js (app logic)
+   ↓
+server.js (server run karta hai)
